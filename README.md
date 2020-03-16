@@ -1,24 +1,41 @@
-# README
+# XML Begginer linter
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This a ruby on rails based application that operates a CRUD model for Users and microposts like a Twitter Microblogging appliaction.
 
-Things you may want to cover:
+# Live Version
+[Demo link](https://sheltered-eyrie-51912.herokuapp.com/users)
 
-* Ruby version
+# How it works
 
-* System dependencies
+It is a simple exercise application that makes CRUD operations for these models:
+- User
+- Microposts
 
-* Configuration
+# Requirements
 
-* Database creation
+- Ruby > 2.5
+- Ruby on Rails > 5.2
+- Rubocop
 
-* Database initialization
+## Built With
 
-* How to run the test suite
+- Ruby
+- Ruby on Rails
 
-* Services (job queues, cache servers, search engines, etc.)
+## Author
 
-* Deployment instructions
+👤 **Diego Antonio Reyes Coronado**
 
-* ...
+- Github: [@xtrmdarc](https://github.com/xtrmdarc)
+- Twitter: [@diegoreyesco](https://twitter.com/DiegoAn91629127)
+- Linkedin: [diegoreyesco](https://www.linkedin.com/in/diego-reyes-coronado-7a7189b7/)
+
+## 🤝 Contributing
+
+Contributions, issues and feature requests are welcome!
+
+Feel free to check the [issues page](issues/).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
