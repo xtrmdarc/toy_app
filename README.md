@@ -1,4 +1,4 @@
-# XML Begginer linter
+# Toy App
 
 This a ruby on rails based application that operates a CRUD model for Users and microposts like a Twitter Microblogging appliaction.
 
